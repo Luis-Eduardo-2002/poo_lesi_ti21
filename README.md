@@ -1,2 +1,8 @@
-# poo_lesi_ti21
-Repositorio para almacenar las prácticas de la materia de programación orientada a objetos 
+# Curso de programación Orientada a Objetos
+
+## Indice
+
+|No.1|Archivo|Descripción|
+|--|--|--|
+|1.|programa0.py|Hola mundo en python|
+
