@@ -9,6 +9,6 @@ variable2 = '619'  # Variable que almacena una cadena de caracteres
 print(variable1 + variable2)  # Cadena de caracteres
 """
 variable1 = "Hola "  # Variable que almacena una cadena de caracteres
-variable2 = '619'  # Si le pongo comillas no funciona, solo con comillas sencillas
-print(variable1 + variable2)  # Cadena de caracteres
+variable2 = '619'  # Variable tipo int
+print(variable1 + variable2)  # Imprime la concatenación de 2 variables tipo str
 """
