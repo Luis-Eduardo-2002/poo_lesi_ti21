@@ -11,4 +11,4 @@
 |5.|programa4.py|Asigancion de variables e indicacion de nombres|
 |6.|programa5.py|Realización de operaciones de suma|
 |--|--|--|
-|8.|programa7.py|Tarea por hacer|
+|8.|programa7.py|Realización de un pequeño programa para resolver areas y perimetros de cuadrados y circulos|
