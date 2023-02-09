@@ -13,3 +13,5 @@
 |--|--|--|
 |8.|programa7.py|Realización de un pequeño programa para resolver areas y perimetros de cuadrados y circulos|
 |9.|programa8.py|Realizacion del comando "if"|
+|10.|programa9.py|Utilizando definicion de mayor|
+|11.|programa10.py|Utilizando definicion de mayor 2.0|
