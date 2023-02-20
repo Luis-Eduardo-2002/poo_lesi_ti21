@@ -16,8 +16,8 @@ radio = input("Introduzca el valor del radio: ") #Introducción del dato de radi
 
 area = PI*float(radio)**2 #Realización de la operación y se pone doble "*" para indicar una elevación al cuadrado
 
-diametro = input("Introduzca el valor del diamtro: ")
-perimetro = PI*float(diametro) 
+diametro = input("Introduzca el valor del diamtro: ") # Pedimos al usuario que ingrese el valor de su diametro con el comando "input"
+perimetro = PI*float(diametro) # Procedimeinto de la operacion guardandola en la varaible "perimetro"
 
 print("El área de un círculo de {} cm de radio es de {} ".format(radio, area)) #Lanza el valor asigando por el usuario y el valor del raido 
 
